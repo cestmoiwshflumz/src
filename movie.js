@@ -14,7 +14,7 @@ import { render } from "./render";
        //Remplacez 'VOTRE_CLE_API' par votre clé d'API TMDB
         const apiKey = eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1OTk3ZDdkZWNhYjY2NmViNWJkYjQ4ZWNiMDdiNTZjMCIsInN1YiI6IjY1YjIxODgwYTgwMjM2MDE1MGFlNzRkZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.esFqkhpnw2NTbbs6ciYhOoG6Vn0oM6nWGcOfXe8TTNs; 
         //Remplacez 'ID_DU_FILM' par l'ID du film que vous souhaitez récupérer
-        /*const movieId = */
+        const movieId = rend
 
         const movieInfoContainer = document.getElementById(movieObject.infoContainer);
         const movieTitleElement = document.getElementById(movieObject.title);
